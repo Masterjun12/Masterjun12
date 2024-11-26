@@ -69,7 +69,7 @@
 - linkedin: [https://www.linkedin.com/in/yurim-oh-96709516a/](https://www.linkedin.com/in/yurim-oh-225001285/)
 - email: ak333ak12@jj.ac.kr
 
-### Languages and Libraries
+### 🧰 Languages and Libraries
 ```
 ### Programming Languages
 - Python
