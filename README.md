@@ -70,7 +70,7 @@
 - email: ak333ak12@jj.ac.kr
 
 ### Languages and Libraries
-'''
+```
 ### Programming Languages
 - Python
 
@@ -94,7 +94,7 @@
 
 ### Machine Learning Libraries
 - Scikit-learn (sklearn)
-'''
+```
 <!--
 **masterjun12/masterjun12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
