@@ -10,7 +10,7 @@
 
 ### 🔭 Career
 - Received a B.S. degree in Artificial Intelligence from Jeonju University, Jeonju, Korea, in 2025.  
-- Pursuing an M.S. degree in Agro AI at Jeonju University, Jeonju, Korea, expected in 2024 ~ Present.  
+- Pursuing an M.S. degree in Agro AI at Jeonju University, Jeonju, Korea, in 2024 ~ Present.  
 - Completed an education certificate program at the University of Toronto's C-MORE Lab.  
 - Worked as a **Research Intern** at Dareesoft through the WEMEET program.  
 - Worked as a **Research Intern** at the Rural Development Administration through the WEMEET program.  
