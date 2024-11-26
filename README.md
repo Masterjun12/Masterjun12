@@ -69,6 +69,32 @@
 - linkedin: [https://www.linkedin.com/in/yurim-oh-96709516a/](https://www.linkedin.com/in/yurim-oh-225001285/)
 - email: ak333ak12@jj.ac.kr
 
+### Languages and Libraries
+'''
+### Programming Languages
+- Python
+
+### Jupyter Notebooks
+- Jupyter Notebook
+
+### Deep Learning Frameworks
+- PyTorch
+- TensorFlow
+- Keras
+
+### Data Science Libraries
+- Pandas
+- NumPy
+
+### Computer Vision Libraries
+- OpenCV (cv2)
+
+### Plotting Libraries
+- Matplotlib (matplotlib)
+
+### Machine Learning Libraries
+- Scikit-learn (sklearn)
+'''
 <!--
 **masterjun12/masterjun12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
