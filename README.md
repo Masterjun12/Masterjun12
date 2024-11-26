@@ -1,4 +1,4 @@
-### Yurim, Oh [@masterjun12]
+### Yurim, Oh [@Masterjun12]
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=masterjun12" alt="masterjun12" /> </p>
 
