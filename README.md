@@ -29,7 +29,10 @@
         - Sparse Autoencoder  
     - **Diffusion-Based Models**  
         - Denoising Diffusion Probabilistic Models (DDPMs)  
-        - Score-Based Generative Models  
+        - Score-Based Generative Models
+        - Vector Quantized Diffusion Models (VQ-DM)
+        - Conditional Diffusion Models with Quantization (CDM-Q)
+        - Discrete Diffusion Models (DDM)
 - **Image Segmentation using Deep Learning**  
     - **Supervised Image Segmentation**  
         - U-Net  
