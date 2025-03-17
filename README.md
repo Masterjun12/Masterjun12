@@ -113,6 +113,10 @@ Humanoid LLM
 
 ### Machine Learning Libraries
 - Scikit-learn (sklearn)
+
+### Natural Language Processing
+- LangChain
+- LlamaIndex
 ```
 <!--
 **masterjun12/masterjun12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
