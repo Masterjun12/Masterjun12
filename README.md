@@ -17,11 +17,11 @@
 
 ### 🌱 Interest
 
-- **Agentic AI for Natural Language Processing Model Configuration**
+- **Image Captioning and LLM for Agentic AI**
     - **About**  
-        - Time-Series Data Processing Specialized Models (Google Titan)
+        - Time-Series Aware Vision-Language Models
         - Model-Based Reaction Agents AI
-        - VIT-based Image Models
+        - VIT-based Enhanced Image Captioning Pipelines
         - Modular RAG (Retrieval-Augmented Generation)
         - Agent Decision-making improvement
 - **Generative Models using Deep Learning**  
@@ -54,12 +54,7 @@
 - **Anomaly Detection**
     - Out-of-Distribution Detection
     - Defect Generation
-    
-- **Image Processing using Deep Learning**
-    - Super Resolution
-    - Style Transfer
-    - Image Denoising
-    - Image Matching
+
       
 - **Paper Reading and Research**
     - **Code for Research**
