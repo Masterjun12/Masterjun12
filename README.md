@@ -23,7 +23,8 @@
         - Model-Based Reaction Agents AI
         - VIT-based Enhanced Image Captioning Pipelines
         - Vision-based Retrieval-augmented Generation
-        - Agent Decision-making improvement
+        - Visual Question Answering
+        - 
 - **Generative Models using Deep Learning**  
     - **GAN-Based Models**  
         - Generative Adversarial Networks (GANs)  
