@@ -22,7 +22,7 @@
         - Time-Series Aware Vision-Language Models
         - Model-Based Reaction Agents AI
         - VIT-based Enhanced Image Captioning Pipelines
-        - Modular RAG (Retrieval-Augmented Generation)
+        - Vision-based Retrieval-augmented Generation
         - Agent Decision-making improvement
 - **Generative Models using Deep Learning**  
     - **GAN-Based Models**  
