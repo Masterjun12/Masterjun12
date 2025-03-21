@@ -18,12 +18,11 @@
 ### 🌱 Interest
 
 - **Image Captioning and LLM for Agentic AI**
-    - **About**  
-        - image inference
-        - Model-Based Reaction Agents AI
-        - VIT-based Enhanced Image Captioning Pipelines
-        - Vision-based Retrieval-augmented Generation
-        - Visual Question Answering
+    - image inference
+    - Model-Based Reaction Agents AI
+    - VIT-based Enhanced Image Captioning Pipelines
+    - Vision-based Retrieval-augmented Generation
+    - Visual Question Answering
 - **Image Anomaly Detection**
     - Out-of-Distribution Detection
     - Defect Generation
@@ -69,16 +68,8 @@
         - [FU-net: Multi-class Image Segmentation Using Feedback Weighted U-net](https://github.com/Masterjun12/Paper-and-experiment-seminar/blob/main/Paper/FU-net_Multi-class_Image_Segmentation_Using_Feedback_Weighted_U-net.pdf)  
         - [Using a Generative Adversarial Network to Generate Synthetic MRI Images for Multi-class Automatic Segmentation of Brain Tumors](https://github.com/Masterjun12/Paper-and-experiment-seminar/blob/main/Paper/Using_a_generative_adversarialnetwork_to_generate_synthetic_MRIimages_for_multi-class_automaticsegmentation_of_brain_tumors.pdf)  
         - [Edge-Boosted U-Net for 2D Medical Image Segmentation](https://github.com/Masterjun12/Paper-and-experiment-seminar/blob/main/Paper/_Edge-Boosted_U-Net_for_2D_Medical_Image_Segmentation.pdf)
-        - [Mamba: Linear-Time Sequence Modeling with Selective State Spaces](https://arxiv.org/abs/2312.00752)
-        - [Titans: Learning to Memorize at Test Time](https://arxiv.org/abs/2501.00663)
         - [A survey on efficient vision transformers: algorithms, techniques, and performance benchmarking](https://arxiv.org/abs/2309.02031)
         
-- **Agentic AI for Natural Language Processing Model Configuration**
-Time-Series Data Processing Specialized Models (Google Titan)
-On-Device Lightweight LLM Models (Quantization)
-VIT-based Image Models
-Modular RAG (Retrieval-Augmented Generation)
-Humanoid LLM
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=masterjun12&show_icons=true" alt="masterjun12" /></p>
 
