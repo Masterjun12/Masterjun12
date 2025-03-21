@@ -19,12 +19,17 @@
 
 - **Image Captioning and LLM for Agentic AI**
     - **About**  
-        - Time-Series Aware Vision-Language Models
+        - image inference
         - Model-Based Reaction Agents AI
         - VIT-based Enhanced Image Captioning Pipelines
         - Vision-based Retrieval-augmented Generation
         - Visual Question Answering
-        - 
+- **Image Anomaly Detection**
+    - Out-of-Distribution Detection
+    - Defect Generation
+    - Feature-Embedding Based Methods
+    - Reconstruction Based Methods
+      
 - **Generative Models using Deep Learning**  
     - **GAN-Based Models**  
         - Generative Adversarial Networks (GANs)  
@@ -52,9 +57,7 @@
         - Mean Shift Segmentation  
         - Deep Embedded Clustering (DEC)  
         - Segment Anything Model (SAM)
-- **Anomaly Detection**
-    - Out-of-Distribution Detection
-    - Defect Generation
+
 
       
 - **Paper Reading and Research**
