@@ -96,6 +96,7 @@
 
 ### Computer Vision Libraries
 - OpenCV (cv2)
+- Ultralytics
 
 ### Plotting Libraries
 - Matplotlib (matplotlib)
