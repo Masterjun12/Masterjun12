@@ -23,12 +23,6 @@
     - Parameter-Efficient Fine-Tuning (PEFT)
     - Time-Series data Anomaly Detection Model
       
-- **Image Anomaly Detection**
-    - Out-of-Distribution Detection
-    - Defect Generation
-    - Feature-Embedding Based Methods
-    - Reconstruction Based Methods
-      
 - **Generative Models using Deep Learning**  
     - **GAN-Based Models**  
         - Generative Adversarial Networks (GANs)  
@@ -45,6 +39,9 @@
         - Vector Quantized Diffusion Models (VQ-DM)
         - Conditional Diffusion Models with Quantization (CDM-Q)
         - Discrete Diffusion Models (DDM)
+
+
+          
 - **Image Segmentation using Deep Learning**  
     - **Supervised Image Segmentation**  
         - U-Net  
@@ -56,7 +53,11 @@
         - Mean Shift Segmentation  
         - Deep Embedded Clustering (DEC)  
         - Segment Anything Model (SAM)
-
+- **Image Anomaly Detection**
+    - Out-of-Distribution Detection
+    - Defect Generation
+    - Feature-Embedding Based Methods
+    - Reconstruction Based Methods
       
 - **Paper Reading and Research**
     - **Code for Research**
