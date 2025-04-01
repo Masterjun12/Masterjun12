@@ -30,7 +30,8 @@
         - CycleGAN  
         - StyleGAN / StyleGAN2  
     - **Autoencoder-Based Models**  
-        - Variational Autoencoder (VAE)  
+        - Variational Autoencoder (VAE)
+        - Vector Quantized VAE (VQ-VAE)
         - Denoising Autoencoder  
         - Sparse Autoencoder  
     - **Diffusion-Based Models**  
