@@ -20,7 +20,7 @@
 - **Large Language Model (LLM) Optimization**
     - Optimizing retrieval models for faster and more accurate augmented generation
     - Applying Low-Rank Adaptation (LoRA) to fine-tune large-scale models efficiently.
-    - Exploring domain-specific pretraining strategies to enhance BERT’s adaptability.
+    - Parameter-Efficient Fine-Tuning (PEFT)
     - Time-Series data Anomaly Detection Model
       
 - **Image Anomaly Detection**
