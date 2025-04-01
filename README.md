@@ -17,6 +17,12 @@
 
 ### 🌱 Interest
 
+- **Large Language Model (LLM) Optimization**
+    - Optimizing retrieval models for faster and more accurate augmented generation
+    - Applying Low-Rank Adaptation (LoRA) to fine-tune large-scale models efficiently.
+    - Exploring domain-specific pretraining strategies to enhance BERT’s adaptability.
+    - Time-Series data Anomaly Detection Model
+      
 - **Image Anomaly Detection**
     - Out-of-Distribution Detection
     - Defect Generation
@@ -51,12 +57,6 @@
         - Deep Embedded Clustering (DEC)  
         - Segment Anything Model (SAM)
 
-- **Image Captioning and LLM for Agentic AI**
-    - image inference
-    - Model-Based Reaction Agents AI
-    - VIT-based Enhanced Image Captioning Pipelines
-    - Vision-based Retrieval-augmented Generation
-    - Visual Question Answering
       
 - **Paper Reading and Research**
     - **Code for Research**
