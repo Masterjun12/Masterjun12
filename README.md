@@ -64,12 +64,6 @@
 
 ---
 
-### 🧬 Domain Paper (Biomedical)
-
-- [Distribution, Biochemistry and Function of Striatal Adenosine A2A Receptors](https://www.sciencedirect.com/science/article/pii/S0301008299000118)
-
----
-
 ### 🖼️ Computer Vision & Medical AI
 
 - [A Survey of Methods for Brain Tumor Segmentation Based on MRI Images](https://github.com/Masterjun12/Paper-and-experiment-seminar/blob/main/Paper/A%20survey%20of%20methods%20for%20brain%20tumor%20segmentation-based%20MRI%20images%20.pdf)  
