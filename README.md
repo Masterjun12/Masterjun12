@@ -15,63 +15,73 @@
 - Worked as a **Research Intern** at Dareesoft through the WEMEET program.  
 - Worked as a **Research Intern** at the Rural Development Administration through the WEMEET program.  
 
-### 🌱 Interest
+### 🌱 Research Interests
+
+- **Graph-based AI & Knowledge Integration**
+    - Knowledge Graph Embedding (TransE, RotatE, DistMult)
+    - Graph Neural Networks (GNN, Graph Transformer)
+    - Graph-based Retrieval Augmented Generation (GraphRAG)
+    - Multi-hop reasoning over structured knowledge
+
+- **Small Language Model (SLM) Optimization**
+    - Lightweight model design for on-device / edge environments
+    - Parameter-Efficient Fine-Tuning (PEFT, LoRA)
+    - Efficient inference and memory optimization
+    - Retrieval and reasoning optimization for compact models
+
+- **Multi-Agent Systems (A2A / LLM Agents)**
+    - Agent-to-Agent (A2A) communication frameworks
+    - Task decomposition and cooperative reasoning
+    - Multi-agent orchestration using LLMs
+    - Integration of external tools and knowledge sources
 
 - **Large Language Model (LLM) Optimization**
-    - Optimizing retrieval models for faster and more accurate augmented generation
-    - Applying Low-Rank Adaptation (LoRA) to fine-tune large-scale models efficiently.
-    - Parameter-Efficient Fine-Tuning (PEFT)
-    - Time-Series data Anomaly Detection Model
-      
+    - Retrieval-Augmented Generation (RAG)
+    - Prompt engineering and structured output generation
+    - Model efficiency and scaling strategies
+
 - **Generative Models using Deep Learning**  
-    - **GAN-Based Models**  
-        - Generative Adversarial Networks (GANs)  
-        - Conditional GAN (cGAN)  
-        - CycleGAN  
-        - StyleGAN / StyleGAN2  
-    - **Autoencoder-Based Models**  
-        - Variational Autoencoder (VAE)
-        - Vector Quantized VAE (VQ-VAE)
-        - Denoising Autoencoder  
-        - Sparse Autoencoder  
-    - **Diffusion-Based Models**  
-        - Denoising Diffusion Probabilistic Models (DDPMs)  
-        - Score-Based Generative Models
-        - Vector Quantized Diffusion Models (VQ-DM)
-        - Conditional Diffusion Models with Quantization (CDM-Q)
-        - Discrete Diffusion Models (DDM)
-
-
-          
-- **Image Segmentation using Deep Learning**  
-    - **Supervised Image Segmentation**  
-        - U-Net  
-        - DeepLab (DeepLabV3, DeepLabV3+)  
-        - Mask R-CNN  
-        - PSPNet (Pyramid Scene Parsing Network)  
-        - SegNet 
-    - **Unsupervised Image Segmentation**  
-        - Mean Shift Segmentation  
-        - Deep Embedded Clustering (DEC)  
-        - Segment Anything Model (SAM)
-- **Image Anomaly Detection**
-    - Out-of-Distribution Detection
-    - Defect Generation
-    - Feature-Embedding Based Methods
-    - Reconstruction Based Methods
+    - GAN, VAE, Diffusion Models (DDPM, Score-based)
       
-- **Paper Reading and Research**
-    - **Code for Research**
-        - [BraTs 2017 Brain Tumor Segmentation](https://github.com/Masterjun12/brain_tumor_segmentation)
-    - **Paper Reading**  
-        - [A Survey of Methods for Brain Tumor Segmentation Based on MRI Images](https://github.com/Masterjun12/Paper-and-experiment-seminar/blob/main/Paper/A%20survey%20of%20methods%20for%20brain%20tumor%20segmentation-based%20MRI%20images%20.pdf)  
-        - [Edge U-Net: Brain Tumor Segmentation Using MRI Based on Deep U-Net Model with Boundary Information](https://github.com/Masterjun12/Paper-and-experiment-seminar/blob/main/Paper/Edge_U-Net_Brain_tumor_segmentation_using_MRI_based_on_deep_U-Netmodel_with_boundary_information__.pdf)  
-        - [FU-net: Multi-class Image Segmentation Using Feedback Weighted U-net](https://github.com/Masterjun12/Paper-and-experiment-seminar/blob/main/Paper/FU-net_Multi-class_Image_Segmentation_Using_Feedback_Weighted_U-net.pdf)  
-        - [Using a Generative Adversarial Network to Generate Synthetic MRI Images for Multi-class Automatic Segmentation of Brain Tumors](https://github.com/Masterjun12/Paper-and-experiment-seminar/blob/main/Paper/Using_a_generative_adversarialnetwork_to_generate_synthetic_MRIimages_for_multi-class_automaticsegmentation_of_brain_tumors.pdf)  
-        - [Edge-Boosted U-Net for 2D Medical Image Segmentation](https://github.com/Masterjun12/Paper-and-experiment-seminar/blob/main/Paper/_Edge-Boosted_U-Net_for_2D_Medical_Image_Segmentation.pdf)
-        - [A survey on efficient vision transformers: algorithms, techniques, and performance benchmarking](https://arxiv.org/abs/2309.02031)
-        - [others in here](https://github.com/Masterjun12/Paper-and-experiment-seminar/tree/main/Paper)
+- **Computer Vision & Medical AI**
+    - Image Segmentation (U-Net, DeepLab, Mask R-CNN)
+    - Medical Image Analysis (Brain Tumor Segmentation)
+    - Anomaly Detection (OOD, Reconstruction-based)
+      
+### 📚 Paper Reading and Research
 
+- **Code for Research**
+    - [BraTs 2017 Brain Tumor Segmentation](https://github.com/Masterjun12/brain_tumor_segmentation)
+
+---
+
+### 🧠 Graph & LLM / Reasoning
+
+- [Knowledge Graph Large Language Model (KG-LLM) for Link Prediction](https://arxiv.org/abs/2403.07311)
+- [Knowledge Graphs as Context Sources for LLM-Based Explanations of Learning Recommendations](https://ieeexplore.ieee.org/abstract/document/10578654)
+- [Generate-on-Graph: Treat LLM as both Agent and KG for Incomplete Knowledge Graph Question Answering](https://aclanthology.org/2024.emnlp-main.1023/)
+- [Think-on-Graph: Deep and Responsible Reasoning of Large Language Model on Knowledge Graph](https://arxiv.org/abs/2307.07697)
+
+---
+
+### 🧬 Domain Paper (Biomedical)
+
+- [Distribution, Biochemistry and Function of Striatal Adenosine A2A Receptors](https://www.sciencedirect.com/science/article/pii/S0301008299000118)
+
+---
+
+### 🖼️ Computer Vision & Medical AI
+
+- [A Survey of Methods for Brain Tumor Segmentation Based on MRI Images](https://github.com/Masterjun12/Paper-and-experiment-seminar/blob/main/Paper/A%20survey%20of%20methods%20for%20brain%20tumor%20segmentation-based%20MRI%20images%20.pdf)  
+- [Edge U-Net: Brain Tumor Segmentation Using MRI Based on Deep U-Net Model with Boundary Information](https://github.com/Masterjun12/Paper-and-experiment-seminar/blob/main/Paper/Edge_U-Net_Brain_tumor_segmentation_using_MRI_based_on_deep_U-Netmodel_with_boundary_information__.pdf)  
+- [FU-net: Multi-class Image Segmentation Using Feedback Weighted U-net](https://github.com/Masterjun12/Paper-and-experiment-seminar/blob/main/Paper/FU-net_Multi-class_Image_Segmentation_Using_Feedback_Weighted_U-net.pdf)  
+- [Using a Generative Adversarial Network to Generate Synthetic MRI Images for Multi-class Automatic Segmentation of Brain Tumors](https://github.com/Masterjun12/Paper-and-experiment-seminar/blob/main/Paper/Using_a_generative_adversarialnetwork_to_generate_synthetic_MRIimages_for_multi-class_automaticsegmentation_of_brain_tumors.pdf)  
+- [Edge-Boosted U-Net for 2D Medical Image Segmentation](https://github.com/Masterjun12/Paper-and-experiment-seminar/blob/main/Paper/_Edge-Boosted_U-Net_for_2D_Medical_Image_Segmentation.pdf)
+- [A survey on efficient vision transformers: algorithms, techniques, and performance benchmarking](https://arxiv.org/abs/2309.02031)
+
+---
+
+- [📂 More Papers](https://github.com/Masterjun12/Paper-and-experiment-seminar/tree/main/Paper)
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=masterjun12&show_icons=true" alt="masterjun12" /></p>
 
 
@@ -80,35 +90,56 @@
 - email: ak333ak12@jj.ac.kr
 
 ### 🧰 Languages and Libraries
-```
-### Programming Languages
+
+#### 🖥️ Programming
 - Python
 
-### Jupyter Notebooks
+#### 📓 Development Environment
 - Jupyter Notebook
 
-### Deep Learning Frameworks
+#### 🤖 Deep Learning Frameworks
 - PyTorch
 - TensorFlow
 - Keras
 
-### Data Science Libraries
+#### 📊 Data Science
 - Pandas
 - NumPy
+- Scikit-learn (sklearn)
 
-### Computer Vision Libraries
+#### 👁️ Computer Vision
 - OpenCV (cv2)
 - Ultralytics
 
-### Plotting Libraries
-- Matplotlib (matplotlib)
-
-### Machine Learning Libraries
-- Scikit-learn (sklearn)
-
-### Natural Language Processing
+#### 🧠 NLP & LLM
 - LangChain
 - LlamaIndex
+
+---
+
+### ⚙️ MLOps & Infrastructure
+
+#### 🐳 Containerization & Orchestration
+- Docker
+- Kubernetes
+
+#### 🧩 AI System & Serving
+- vLLM (LLM Serving)
+- OpenWebUI (LLM Interface)
+- LangGraph (Agent Workflow)
+
+#### 🗄️ Databases & Knowledge Graph
+- Neo4j (Graph Database)
+- SQL (SQLGate)
+
+#### 🔄 CI/CD & DevOps
+- Jenkins
+- Nexus (Artifact Repository)
+
+#### 🌐 Backend & Deployment
+- Linux Server Environment
+- Nginx (Reverse Proxy)
+- WebSocket / API Integration
 ```
 <!--
 **masterjun12/masterjun12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
